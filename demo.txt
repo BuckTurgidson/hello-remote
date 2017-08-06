@@ -1,1 +1,2 @@
 Here is some text we adding into demo.txt
+Now from local..
